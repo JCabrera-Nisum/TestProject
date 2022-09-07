@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-07T09:26:22 PDT" name="Default suite" finished-at="2022-09-07T09:26:29 PDT" duration-ms="7541">
+    <groups>
+    </groups>
+    <test started-at="2022-09-07T09:26:22 PDT" name="Default test" finished-at="2022-09-07T09:26:29 PDT" duration-ms="7541">
+      <class name="extentReporst.ExtentReportClass">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:extentReporst.ExtentReportClass@21282ed8]" started-at="2022-09-07T09:26:22 PDT" name="beforeTest" finished-at="2022-09-07T09:26:22 PDT" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:extentReporst.ExtentReportClass@21282ed8]" started-at="2022-09-07T09:26:22 PDT" name="beforeMethod" finished-at="2022-09-07T09:26:24 PDT" duration-ms="1763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="YahooLogin()[pri:0, instance:extentReporst.ExtentReportClass@21282ed8]" started-at="2022-09-07T09:26:24 PDT" name="YahooLogin" finished-at="2022-09-07T09:26:29 PDT" duration-ms="4799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- YahooLogin -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:extentReporst.ExtentReportClass@21282ed8]" started-at="2022-09-07T09:26:29 PDT" name="afterMethod" finished-at="2022-09-07T09:26:29 PDT" duration-ms="524" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=YahooLogin status=SUCCESS method=ExtentReportClass.YahooLogin()[pri:0, instance:extentReporst.ExtentReportClass@21282ed8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:extentReporst.ExtentReportClass@21282ed8]" started-at="2022-09-07T09:26:29 PDT" name="afterTest" finished-at="2022-09-07T09:26:29 PDT" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- extentReporst.ExtentReportClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

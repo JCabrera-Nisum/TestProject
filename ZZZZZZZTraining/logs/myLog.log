@@ -1,0 +1,15 @@
+[INFO ] 2022-09-06 11:27:31,613 base.BaseClass:16 - Set driver url
+[WARN ] 2022-09-06 11:27:31,615 base.BaseClass:17 - Added thread sleep of 200
+[INFO ] 2022-09-06 11:27:32,185 base.BaseClass:21 - Click create account on Yahoo page
+[WARN ] 2022-09-06 11:27:32,185 base.BaseClass:22 - Added thread sleep of 200
+[INFO ] 2022-09-06 11:27:32,436 base.BaseClass:27 - Input first name
+[WARN ] 2022-09-06 11:27:32,436 base.BaseClass:28 - Added thread sleep of 200
+[INFO ] 2022-09-06 11:27:32,685 base.BaseClass:33 - Input last name
+[WARN ] 2022-09-06 11:27:32,685 base.BaseClass:34 - Added thread sleep of 200
+[INFO ] 2022-09-06 11:27:32,934 base.BaseClass:39 - Input user id
+[INFO ] 2022-09-06 11:27:33,183 base.BaseClass:44 - Input password
+[WARN ] 2022-09-06 11:27:33,183 base.BaseClass:45 - Added thread sleep of 200
+[INFO ] 2022-09-06 11:27:33,433 base.BaseClass:50 - Input the birth year
+[WARN ] 2022-09-06 11:27:33,433 base.BaseClass:51 - Added thread sleep of 200
+[INFO ] 2022-09-06 11:27:33,758 base.BaseClass:54 - Click sign in button
+[INFO ] 2022-09-06 11:27:33,783 base.BaseClass:29 - Goodbye!
